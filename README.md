@@ -26,3 +26,8 @@ I actively pursue **hands-on experience and continuous learning** in computer sc
 <a href="mailto:veronia2300592@miuegypt.edu.eg">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
+## 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=veroonia&show_icons=true&theme=github_dark" height="165"/>
+<img src="https://streak-stats.demolab.com?user=veroonia&theme=github-dark" height="165"/>
