@@ -26,3 +26,7 @@ I actively pursue **hands-on experience and continuous learning** in computer sc
 <a href="mailto:veronia2300592@miuegypt.edu.eg">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
+## 📈 GitHub Metrics
+
+![Metrics](./github-metrics.svg)
