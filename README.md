@@ -44,6 +44,11 @@
 ## 🐍 Contribution Snake
 ![Snake](https://raw.githubusercontent.com/veroonia/veroonia/output/github-contribution-grid-snake-dark.svg)
 
-## 📈 GitHub Metrics
-![Metrics](https://raw.githubusercontent.com/veroonia/veroonia/main/github-metrics.svg)
+## 📈 Stats Cards
+
+![Veronia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=veroonia&show_icons=true&theme=tokyonight&hide_border=true)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=veroonia&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=veroonia&layout=compact&theme=tokyonight&hide_border=true)
 
