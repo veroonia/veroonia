@@ -46,9 +46,8 @@
 
 ## 📈 Stats Cards
 
-![Veronia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=veroonia&show_icons=true&theme=tokyonight&hide_border=true)
+![Veronia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=veroonia&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=veroonia&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=veroonia&layout=compact&theme=tokyonight&hide_border=true)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=veroonia&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
