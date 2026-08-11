@@ -43,17 +43,3 @@
 
 ## 🐍 Contribution Snake
 ![Snake](https://raw.githubusercontent.com/veroonia/veroonia/output/github-contribution-grid-snake-dark.svg)
-
-## 📈 Stats Cards
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=veroonia&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=veroonia&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=veroonia&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
